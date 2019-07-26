@@ -10,5 +10,6 @@ namespace Angels.Clase
     {
         public static string Software = "Software Angel's";
         public static string Version = "1.0";
+        public static string Licencia { get; set; }
     }
 }
